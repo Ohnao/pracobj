@@ -1,4 +1,4 @@
-class human
+class Human
   def initialize(name,tall)
     @name = name
     @tall = tall
