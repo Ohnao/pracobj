@@ -1,4 +1,4 @@
-require_reative './boss.rb'
+require_relative './boss.rb'
 
 class Extraclass < Boss
   def standup
