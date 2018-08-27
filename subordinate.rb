@@ -1,4 +1,4 @@
-require_relative 'boss'
+require_relative './boss'
 
 class Subordinate < Boss
   def standup
