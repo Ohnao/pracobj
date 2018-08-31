@@ -17,3 +17,5 @@ boss3.standup
 puts"私の給料は、#{chinko.nomal_salary(100)}円です"
 puts"私の給料は、#{boss2.nomal_salary(100)}円です"
 puts"私の給料は、#{boss3.nomal_salary(100)}円です"
+
+## テスト
